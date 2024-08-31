@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(59, 67, 102);
+    color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(253, 132, 132);
+}
+
+a:hover {
+    color: rgb(255, 181, 181);
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+h1,
+h3 {
+    color: rgb(230, 228, 152);
+}
+
+.link-list {
+    list-style:none;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+.recipe-list {
+    line-height: 180%;
+}
+
+.recipe-list li {
+    margin-bottom: 1em;
+}
